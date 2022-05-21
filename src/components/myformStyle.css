@@ -1,0 +1,33 @@
+.myformstyle{
+    border-style: solid;
+
+  border-color: black;
+
+  border-width: 5px;
+
+  box-shadow: 0 8px 350px 0 rgba(0, 0, 0, 0.5);
+
+  align-content: center;
+
+  margin-right: 0px;
+}
+
+.myformstyle2{
+  border-style: solid;
+
+border-color: #000965;
+
+border-width: 5px;
+
+box-shadow: 0 8px 350px 0 rgba(0, 0, 0, 0.5);
+
+align-content: center;
+
+margin-right: 0px;
+}
+
+.center{
+    margin-left: auto;
+    margin-right: auto;
+}
+
