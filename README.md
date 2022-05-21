@@ -1,0 +1,2 @@
+# MERN-EVENT-MANAGEMENT-SYSYTEM
+***with cruds***
